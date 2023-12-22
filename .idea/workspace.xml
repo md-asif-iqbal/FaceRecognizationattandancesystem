@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3790e3e7-0166-4b9a-ab51-d08b4787a979" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/face_recognition-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/face_recognition-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Elon/WSIRZRWN6BOMBA4VHAUGK32TVA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Elon/elon-musk-rt-jt-230511_1683834880758_hpMain_1x1_608.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Elon/elon_0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Zain/IMG-20200227-WA0012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Zain/IMG_20221221_220215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/Zain/Screenshot_20210916-142657.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/representations_vgg_face.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Database/representations_vgg_face.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/attendance.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/face_recognition.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Z7qqo3qwlguklwR8mmzNI3MMYU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mohsin/Desktop/face_recog_attendance",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3790e3e7-0166-4b9a-ab51-d08b4787a979" name="Changes" comment="" />
+      <created>1701783659181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701783659181</updated>
+      <workItem from="1701783660205" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
